@@ -1,2 +1,1 @@
-# python_demo
-Various python demonstration
+![](Approval_check.gif)
